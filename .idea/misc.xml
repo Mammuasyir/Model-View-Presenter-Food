@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Humam/AndroidStudioProjects/MVPFoodRIval/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Humam/AndroidStudioProjects/MVPFoodRIval/app/src/main/res/layout/activity_update_delete.xml" value="0.11979166666666667" />
+        <entry key="..\:/Users/Humam/AndroidStudioProjects/MVPFoodRIval/app/src/main/res/layout/dialog_insert.xml" value="0.18" />
+        <entry key="..\:/Users/Humam/AndroidStudioProjects/MVPFoodRIval/app/src/main/res/layout/item_row_food.xml" value="0.1" />
+        <entry key="..\:/Users/Humam/AndroidStudioProjects/MVPFoodRIval/app/src/main/res/menu/menu_main.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_16_PREVIEW" project-jdk-name="16" project-jdk-type="JavaSDK" />
 </project>
